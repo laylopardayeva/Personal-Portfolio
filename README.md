@@ -5,7 +5,8 @@
 Welcome to my personal portfolio website! This project is a digital representation of my professional journey, education, career achievements, and personal interests. 
 It's designed to provide insights into who I am, what I've accomplished, and the skills I possess.
 
-Screenshots
+##Screenshots
+
 Below are screenshots demonstrating the API responses and how they appear when accessed through a web browser:
 
 <img width="1416" alt="Screenshot 2024-07-28 at 9 27 34 PM" src="https://github.com/user-attachments/assets/9c597e39-e17a-4bfb-ad8f-d4385732e3a0">
