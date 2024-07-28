@@ -15,6 +15,7 @@ Below are screenshots demonstrating the API responses and how they appear when a
 <img width="1428" alt="Screenshot 2024-07-28 at 9 28 22 PM" src="https://github.com/user-attachments/assets/bd694c3d-5597-442f-9bdd-6961127b30eb">
 <img width="1396" alt="Screenshot 2024-07-28 at 9 28 31 PM" src="https://github.com/user-attachments/assets/5232a16a-9161-45d9-9b2a-2125cdfefba5">
 
+This screenshots shows the JSON response from the API when listing all Kdramas. It includes details like ID, title, release date, and links to posters and trailers.
 
 ## Technologies Used
 
